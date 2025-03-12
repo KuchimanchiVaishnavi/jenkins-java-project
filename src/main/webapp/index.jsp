@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> welcome vaishnavi...</h2>
+      <h2> welcome vaishuuuuuuuuuuuuuuuuuuuuuuuuuuuu...</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
